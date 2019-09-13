@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConcurrentImageProcessorDataParallel",
+            "request": "launch",
+            "mainClass": "hw5_432.ConcurrentImageProcessorDataParallel"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConcurrentImageProcessorTaskParallel",
+            "request": "launch",
+            "mainClass": "hw5_432.ConcurrentImageProcessorTaskParallel"
+        }
+    ]
+}
